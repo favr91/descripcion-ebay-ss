@@ -59,7 +59,7 @@
 
 .video iframe{    
     width: 100%;
-    height: 40vh;;
+    height: 40vh;
 }
 
 #video1 {
@@ -265,6 +265,11 @@
 
     .cabecera hr {
         height: 40px;
+    }
+
+    .video iframe{    
+        width: 100%;
+        height: 50vh;;
     }
 
 }
